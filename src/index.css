@@ -41,7 +41,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(./assets/bg1.jpg);
+    background-image: url(./assets/bg.jpg);
     background-attachment: fixed;
     background-size: 100%;
     background-blend-mode: color-burn;
